@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
 build/
@@ -127,3 +128,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#csv that aren't working
+credits.csv
+ratings.csv
+keywords.csv
+links.csv
+ratings_small.csv
